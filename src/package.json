@@ -1,0 +1,15 @@
+{
+  "name": "fe-code-snippet",
+  "version": "0.0.2",
+  "description": "the world included npm package, yeah!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "codeset",
+    "coder"
+  ],
+  "author": "codecomeon@gmail.com",
+  "license": "MIT"
+}

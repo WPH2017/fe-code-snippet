@@ -1,0 +1,3 @@
+exports = {
+    html: true
+};
